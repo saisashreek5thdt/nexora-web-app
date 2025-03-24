@@ -1,9 +1,12 @@
-import React from 'react'
+import React from "react";
+import { Header } from "./Components/index";
 
 export default function Home() {
   return (
     <>
-        <h1>Nexora Website</h1>
+      {/* Header Start */}
+      <Header />
+      {/* Header End */}
     </>
-  )
+  );
 }
