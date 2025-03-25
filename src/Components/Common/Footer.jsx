@@ -36,12 +36,12 @@ export default function Footer() {
               </div>
             </div>
           </div>
-          <div className="footer-top-image wow fadeInLeft" data-wow-delay="0.2s">
+          {/* <div className="footer-top-image wow fadeInLeft" data-wow-delay="0.2s">
             <img src="img/background/foot1.png" alt="" />
           </div>
           <div className="footer-top-image-2 wow fadeInRight" data-wow-delay="0.2s">
             <img src="img/background/foot2.png" alt="" />
-          </div>
+          </div> */}
         </div>
         {/* Start Footer Bottom Area */}
         <FooterCopyRight />

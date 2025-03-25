@@ -5,7 +5,7 @@ export default function FooterInfo() {
     <>
       <div className="footer-head">
         <h4>Information</h4>
-        <p>When replacing a multi lined selection of text dummy text</p>
+        {/* <p>When replacing a multi lined selection of text dummy text</p> */}
         <div className="footer-contacts">
           <p>
             <span>Tel :</span> +919785147256

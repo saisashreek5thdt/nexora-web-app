@@ -11,10 +11,10 @@ export default function ContactUs() {
             <div className="col-xl-6 col-lg-6 col-md-12">
               <div className="brand-content-inner">
                 <div className="brand-text wow fadeInUp" data-wow-delay="0.3s">
-                  <h3>Contact us for create animation story</h3>
+                  <h3>Contact us to start your journey with Nexora</h3>
                   <p>
-                    Music video actor perform a nice song .Music video actor
-                    perform a nice song .Music video actor perform.
+                    Lorem Ipsum is simply dummy text of the printing and
+                    typesetting industry.
                   </p>
                 </div>
                 {/* Start Brand Area */}

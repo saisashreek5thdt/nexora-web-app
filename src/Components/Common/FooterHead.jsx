@@ -8,12 +8,12 @@ function FooterHead() {
       <div className="footer-head">
         <div className="footer-logo">
           <Link to="/">
-            <img src="img/logo/logo2.png" alt="" />
+            <img src="img/logo/logoFooter.png" alt="" />
           </Link>
         </div>
         <p>
-          When replacing a multi lined selection of text dummy text maintains
-          the amount of lines. When replacing a selection.
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry.
         </p>
         <FooterSocial />
       </div>

@@ -37,11 +37,12 @@ export default function WhatWeDo() {
                         <div className="main-wel">
                           <div className="wel-content">
                             <a href="#">
-                              <h4>Create animation carton movie.</h4>
+                              <h4>Animation</h4>
                             </a>
                             <p>
-                              Blockchain opt in to the projects they genuinely
-                              want to work on.maintains the amount of lines.
+                              Nexora engages in animation, gaming, edutainment,
+                              infotainment, and content creation, serving as an
+                              IP producer, partner, and distributor.
                             </p>
                           </div>
                         </div>
@@ -61,11 +62,12 @@ export default function WhatWeDo() {
                       <div className="main-wel">
                         <div className="wel-content">
                           <a href="#">
-                            <h4>Make animation short film.</h4>
+                            <h4>Gaming</h4>
                           </a>
                           <p>
-                            Blockchain opt in to the projects they genuinely
-                            want to work on.maintains the amount of lines.
+                            Nexora engages in animation, gaming, edutainment,
+                            infotainment, and content creation, serving as an IP
+                            producer, partner, and distributor.
                           </p>
                         </div>
                       </div>
@@ -84,11 +86,12 @@ export default function WhatWeDo() {
                       <div className="main-wel">
                         <div className="wel-content">
                           <a href="#">
-                            <h4>Create animation carton movie.</h4>
+                            <h4>Edu & Infotainment</h4>
                           </a>
                           <p>
-                            Blockchain opt in to the projects they genuinely
-                            want to work on.maintains the amount of lines.
+                            Nexora engages in animation, gaming, edutainment,
+                            infotainment, and content creation, serving as an IP
+                            producer, partner, and distributor.
                           </p>
                         </div>
                       </div>
@@ -107,11 +110,12 @@ export default function WhatWeDo() {
                       <div className="main-wel">
                         <div className="wel-content">
                           <a href="#">
-                            <h4>Make animation short film.</h4>
+                            <h4>Content Creation & IP</h4>
                           </a>
                           <p>
-                            Blockchain opt in to the projects they genuinely
-                            want to work on.maintains the amount of lines.
+                            Nexora engages in animation, gaming, edutainment,
+                            infotainment, and content creation, serving as an IP
+                            producer, partner, and distributor.
                           </p>
                         </div>
                       </div>

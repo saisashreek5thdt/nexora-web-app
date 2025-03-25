@@ -14,14 +14,18 @@ export default function HowWeWork() {
                 <span className="title-up">Works</span>
                 <h2>Our Animation</h2>
                 <p>
-                  The phrasal sequence of the Lorem Ipsum text is now so
-                  widespread and commonplace that many DTP programmes can
-                  generate dummy.
+                  Nexora integrates cutting-edge advancements in VR/AR,
+                  AI-driven content creation, blockchain-based IP management,
+                  and interactive storytelling to shape the future of
+                  entertainment and education.
                 </p>
               </div>
             </div>
             <div className="col-xl-6 col-lg-6 col-md-6">
-              <div className="section-bg-btn wow fadeInRight" data-wow-delay="0.3s">
+              <div
+                className="section-bg-btn wow fadeInRight"
+                data-wow-delay="0.3s"
+              >
                 <a href="tournament.html" className="ready-btn anti-btn">
                   Expore More
                 </a>
@@ -69,10 +73,12 @@ export default function HowWeWork() {
                           </ul>
                         </div>
                         <p>
-                          When replacing a multi lined selection of text, the
-                          generated dummy text maintains the amount of lines.
-                          When replacing a selection of text within a single
-                          line.
+                          Nexora aims to establish strong partnerships and
+                          collaborations with studios, networks, content
+                          creators, tech innovators, and global
+                          sales/distribution partners to expand its market
+                          presence and bring groundbreaking content to audiences
+                          worldwide.
                         </p>
                         <div className="anime-share">
                           <ul>
@@ -129,10 +135,12 @@ export default function HowWeWork() {
                           </ul>
                         </div>
                         <p>
-                          When replacing a multi lined selection of text, the
-                          generated dummy text maintains the amount of lines.
-                          When replacing a selection of text within a single
-                          line.
+                          Nexora aims to establish strong partnerships and
+                          collaborations with studios, networks, content
+                          creators, tech innovators, and global
+                          sales/distribution partners to expand its market
+                          presence and bring groundbreaking content to audiences
+                          worldwide.
                         </p>
                         <div className="anime-share">
                           <ul>
@@ -189,10 +197,12 @@ export default function HowWeWork() {
                           </ul>
                         </div>
                         <p>
-                          When replacing a multi lined selection of text, the
-                          generated dummy text maintains the amount of lines.
-                          When replacing a selection of text within a single
-                          line.
+                          Nexora aims to establish strong partnerships and
+                          collaborations with studios, networks, content
+                          creators, tech innovators, and global
+                          sales/distribution partners to expand its market
+                          presence and bring groundbreaking content to audiences
+                          worldwide.
                         </p>
                         <div className="anime-share">
                           <ul>

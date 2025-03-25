@@ -31,14 +31,13 @@ export default function About() {
                     >
                       <div className="section-headline section-left-headline">
                         <span className="title-up"> About us</span>
-                        <h2>About Company</h2>
+                        <h2>About Nexora</h2>
                         <p>
-                          About our company you know and works in film and
-                          media. Works in film and media . A Digital agency
-                          media firm is a business. Of one or more experts that
-                          provides professional work. The phrasal sequence of
-                          the Lorem Ipsum. Media firm is a business of one or
-                          more experts that provides.
+                          Comprehensive Content Ecosystem <br /> Nexora engages in
+                          animation, gaming, edutainment, infotainment, and
+                          content creation, serving as an IP producer, partner,
+                          and distributor. We leverage emerging technologies to
+                          craft immersive and engaging experiences.
                         </p>
                         <div
                           className="layer-3 wow fadeInUp"
@@ -68,7 +67,7 @@ export default function About() {
                             </span>
                             <span className="ab-text">
                               Visual <br />
-                              Sort film
+                              Short film
                             </span>
                           </div>
                         </div>
