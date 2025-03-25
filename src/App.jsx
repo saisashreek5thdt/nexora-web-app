@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Home from "./Home";
+import RootLayout from "./RootLayout";
 
 export default function App() {
   useEffect(() => {
@@ -58,7 +59,11 @@ export default function App() {
   const router = createBrowserRouter([
     {
       path: "/",
-      element: <Home />,
+      element: (
+        <RootLayout>
+          <Home />
+        </RootLayout>
+      ),
     },
   ]);
 
