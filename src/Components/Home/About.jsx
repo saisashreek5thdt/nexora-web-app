@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 export default function About() {
   return (
@@ -15,7 +16,11 @@ export default function About() {
                       data-wow-delay="0.5s"
                     >
                       <div className="about-top-image">
-                        <img className="ab-image" src="img/about/ani.png" alt="" />
+                        <img
+                          className="ab-image"
+                          src="img/about/ani.png"
+                          alt=""
+                        />
                       </div>
                     </div>
                   </div>
@@ -35,6 +40,14 @@ export default function About() {
                           the Lorem Ipsum. Media firm is a business of one or
                           more experts that provides.
                         </p>
+                        <div
+                          className="layer-3 wow fadeInUp"
+                          data-wow-delay="0.7s"
+                        >
+                          <Link to="/" className="ready-btn anti-btn">
+                            Read More
+                          </Link>
+                        </div>
                       </div>
                       <div className="about-company">
                         <div className="single-about">
