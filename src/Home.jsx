@@ -7,7 +7,8 @@ import {
   About,
   Counter,
   WhatWeDo,
-  HowWeWork
+  HowWeWork,
+  ContactUs
 } from "./Components/index";
 
 export default function Home() {
@@ -36,6 +37,9 @@ export default function Home() {
         {/* How We Work Start */}
         <HowWeWork />
         {/* How We Work End */}
+        {/* Contact Us Start */}
+        <ContactUs />
+        {/* Contact Us End */}
       </main>
       {/* Main End */}
       {/* Footer Start */}
