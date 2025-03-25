@@ -2,6 +2,7 @@ import { useEffect } from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Home from "./Home";
 import RootLayout from "./RootLayout";
+import { AboutUs } from "./Components";
 
 export default function App() {
   useEffect(() => {
@@ -65,6 +66,14 @@ export default function App() {
         </RootLayout>
       ),
     },
+    {
+      path: "/about",
+      element: (
+        <RootLayout>
+          <AboutUs />
+        </RootLayout>
+      )
+    }
   ]);
 
   return (
