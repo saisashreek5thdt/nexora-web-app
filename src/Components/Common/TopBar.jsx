@@ -28,7 +28,7 @@ export default function TopBar() {
                       </Link>
                     </li>
                     <li>
-                      <Link to="tel:+919785147256">
+                      <Link to="tel:+919962900211">
                         <i className="fa fa-phone"></i>
                       </Link>
                     </li>

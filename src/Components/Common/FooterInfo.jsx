@@ -8,7 +8,7 @@ export default function FooterInfo() {
         {/* <p>When replacing a multi lined selection of text dummy text</p> */}
         <div className="footer-contacts">
           <p>
-            <span>Tel :</span> +919785147256
+            <span>Tel :</span> +919962900211
           </p>
           <p>
             <span>Email :</span> info@nexora.com
