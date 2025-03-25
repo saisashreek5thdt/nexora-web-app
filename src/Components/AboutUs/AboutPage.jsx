@@ -1,10 +1,9 @@
 import React from "react";
-import { Link } from "react-router-dom";
 
-export default function About() {
+export default function AboutPage() {
   return (
     <>
-      <div className="about-area bg-color area-padding-4">
+      <div className="about-area bg-color area-padding">
         <div className="container">
           <div className="row">
             <div className="col-xl-12 col-lg-12 col-md-12">
@@ -16,11 +15,7 @@ export default function About() {
                       data-wow-delay="0.5s"
                     >
                       <div className="about-top-image">
-                        <img
-                          className="ab-image"
-                          src="img/about/ani.png"
-                          alt=""
-                        />
+                        <img className="ab-image" src="img/about/ani.png" alt="" />
                       </div>
                     </div>
                   </div>
@@ -32,7 +27,7 @@ export default function About() {
                       <div className="section-headline section-left-headline">
                         <span className="title-up"> About us</span>
                         <h2>About Company</h2>
-                        <p>
+                        <p style={{ textAlign: "justify" }}>
                           About our company you know and works in film and
                           media. Works in film and media . A Digital agency
                           media firm is a business. Of one or more experts that
@@ -40,14 +35,14 @@ export default function About() {
                           the Lorem Ipsum. Media firm is a business of one or
                           more experts that provides.
                         </p>
-                        <div
-                          className="layer-3 wow fadeInUp"
-                          data-wow-delay="0.7s"
-                        >
-                          <Link to="/about" className="ready-btn anti-btn">
-                            Read More
-                          </Link>
-                        </div>
+                        <p style={{ textAlign: "justify" }}>
+                          About our company you know and works in film and
+                          media. Works in film and media . A Digital agency
+                          media firm is a business. Of one or more experts that
+                          provides professional work. The phrasal sequence of
+                          the Lorem Ipsum. Media firm is a business of one or
+                          more experts that provides.
+                        </p>
                       </div>
                       <div className="about-company">
                         <div className="single-about">
@@ -56,8 +51,8 @@ export default function About() {
                               <img src="img/about/ab1.png" alt="" />
                             </span>
                             <span className="ab-text">
-                              Animation <br />
-                              Movie
+                              Friendly <br />
+                              Team
                             </span>
                           </div>
                         </div>
@@ -67,8 +62,8 @@ export default function About() {
                               <img src="img/about/ab2.png" alt="" />
                             </span>
                             <span className="ab-text">
-                              Visual <br />
-                              Sort film
+                              Goal <br />
+                              Achivment
                             </span>
                           </div>
                         </div>

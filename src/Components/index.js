@@ -8,3 +8,5 @@ export { default as Counter } from "./Home/Counter";
 export { default as WhatWeDo } from "./Home/WhatWeDo";
 export { default as HowWeWork } from "./Home/HowWeWork";
 export { default as ContactUs } from "./Home/ContactUs";
+
+export { default as AboutUs } from "./AboutUs/AboutUs";
